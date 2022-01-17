@@ -1,0 +1,7 @@
+{
+  "extends": "./.nuxt/tsconfig.json",
+  "allowJs": true,
+  "compilerOptions": {
+    "lib": ["ES2021.String"]
+  }
+}
